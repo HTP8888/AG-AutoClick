@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "updatedAt": "2026-04-23T02:10:00Z",
+  "offers": {
+    "vi": {
+      "buttonLabel": "Tài khoản Antigravity & Codex Business giá rẻ",
+      "title": "Antigravity & Codex Business:",
+      "sections": [
+        {
+          "id": "ag_ultra_trial",
+          "title": "Antigravity Ultra Gói trải nghiệm - chính chủ (1 tháng)",
+          "price": "450.000 VNĐ",
+          "badge": "none"
+        },
+        {
+          "id": "ag_ultra_year",
+          "title": "Antigravity Ultra Gói tiết kiệm (1 năm)",
+          "price": "1.900.000 VNĐ",
+          "badge": "premium_pick"
+        },
+        {
+          "id": "codex_plus",
+          "title": "Codex Plus - Tài khoản cấp cho bạn",
+          "price": "Chỉ từ 70.000 VNĐ/tháng",
+          "badge": "best_choice"
+        },
+        {
+          "id": "wombo_10",
+          "title": "Wombo Combo 10 Codex Plus - Tài khoản cấp cho bạn",
+          "price": "Chỉ từ 600.000 VNĐ/tháng",
+          "badge": "most_popular"
+        },
+        {
+          "id": "github_copilot",
+          "title": "GitHub Copilot",
+          "price": "Chỉ từ 140.000 VNĐ/tháng",
+          "badge": "flash_sale"
+        },
+        {
+          "id": "github_copilot_combo",
+          "title": "Combo 3 acc GitHub Copilot",
+          "price": "Chỉ từ 380.000 VNĐ/tháng",
+          "badge": "value_pick",
+          "note": "GitHub Copilot dùng 9router để chạy trực tiếp trên Antigravity"
+        }
+      ],
+      "footer": "Cam kết giá tốt. Acc mới mỗi ngày. Bảo hành 1 đổi 1.",
+      "zalo": "Zalo: 0785374865",
+      "telegram": "Telegram: @maluen",
+      "botOrder": "BOT Order Auto Telegram: t.me/infinityaistore_bot",
+      "web": "https://infinityaistore.pages.dev"
+    },
+    "en": {
+      "buttonLabel": "Affordable Antigravity & Codex",
+      "title": "Antigravity & Codex Business:",
+      "sections": [
+        {
+          "id": "ag_ultra_trial",
+          "title": "Antigravity Ultra trial plan - official (1 month)",
+          "price": "$17.30",
+          "badge": "none"
+        },
+        {
+          "id": "ag_ultra_year",
+          "title": "Antigravity Ultra saver plan (1 year)",
+          "price": "$73.10",
+          "badge": "premium_pick"
+        },
+        {
+          "id": "codex_plus",
+          "title": "Codex Plus - account provisioned for you",
+          "price": "From $2.70/month",
+          "badge": "best_choice"
+        },
+        {
+          "id": "wombo_10",
+          "title": "Wombo Combo 10 Codex Plus - account provisioned for you",
+          "price": "From $23.10/month",
+          "badge": "most_popular"
+        },
+        {
+          "id": "github_copilot",
+          "title": "GitHub Copilot",
+          "price": "From $5.40/month",
+          "badge": "flash_sale"
+        },
+        {
+          "id": "github_copilot_combo",
+          "title": "3-account GitHub Copilot combo",
+          "price": "From $14.60/month",
+          "badge": "value_pick",
+          "note": "GitHub Copilot uses 9router to work directly on Antigravity"
+        }
+      ],
+      "footer": "Great pricing, fresh accounts daily, and a 1-to-1 replacement warranty.",
+      "zalo": "Zalo: 0785374865",
+      "telegram": "Telegram: @maluen",
+      "botOrder": "BOT Order Auto Telegram: t.me/infinityaistore_bot",
+      "web": "https://infinityaistore.pages.dev"
+    },
+    "zh": {
+      "buttonLabel": "高性价比 Antigravity 与 Codex 账号",
+      "title": "Antigravity 与 Codex 商务账号：",
+      "sections": [
+        {
+          "id": "ag_ultra_trial",
+          "title": "Antigravity Ultra 官方体验套餐（1个月）",
+          "price": "¥125",
+          "badge": "none"
+        },
+        {
+          "id": "ag_ultra_year",
+          "title": "Antigravity Ultra 年付省钱套餐（1年）",
+          "price": "¥528",
+          "badge": "premium_pick"
+        },
+        {
+          "id": "codex_plus",
+          "title": "Codex Plus - 为你代开账号",
+          "price": "低至 ¥20/月",
+          "badge": "best_choice"
+        },
+        {
+          "id": "wombo_10",
+          "title": "Wombo 10个 Codex Plus 组合 - 为你代开账号",
+          "price": "低至 ¥167/月",
+          "badge": "most_popular"
+        },
+        {
+          "id": "github_copilot",
+          "title": "GitHub Copilot",
+          "price": "低至 ¥39/月",
+          "badge": "flash_sale"
+        },
+        {
+          "id": "github_copilot_combo",
+          "title": "3账号 GitHub Copilot 组合",
+          "price": "低至 ¥106/月",
+          "badge": "value_pick",
+          "note": "GitHub Copilot 使用 9router，可直接在 Antigravity 中使用"
+        }
+      ],
+      "footer": "价格实惠，账号每日更新，支持 1 对 1 换新保障。",
+      "zalo": "Zalo: 0785374865",
+      "telegram": "Telegram: @maluen",
+      "botOrder": "BOT Order Auto Telegram: t.me/infinityaistore_bot",
+      "web": "https://infinityaistore.pages.dev"
+    }
+  }
+}
